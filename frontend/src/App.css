@@ -1,0 +1,7 @@
+.nav li a {
+  transition: 0.3s ease;
+}
+
+.nav li a:hover {
+  color: orange !important;
+}
